@@ -8,9 +8,8 @@
 
     <EditText
         android:id="@+id/ml_bitacora"
-        android:layout_width="386dp"
-        android:layout_height="489dp"
-        android:layout_marginTop="16dp"
+        android:layout_width="415dp"
+        android:layout_height="581dp"
         android:background="#031AAE"
         android:ems="10"
         android:gravity="top"
